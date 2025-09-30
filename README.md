@@ -31,8 +31,7 @@ Tableau-and-PowerBI/
 ## 📂 Files Included
 
 ### Data
-- `Data/ECOMM DATA.xlsx`  
-- `Data/Orders.csv`  
+- `Data/ECOMM DATA-Orders.xlsx`  
 - `Data/Financial Statements.csv`  
 - `Data/healthcare_dataset.csv`  
 
@@ -71,8 +70,7 @@ Tableau-and-PowerBI/
 ### Tableau Project Files
 - `Tableau/Finance Performance Dashboard.twb`  
 - `Tableau/Patient Health Insights Dashboard.twb`  
-- `Tableau/Sales & Profit Overview.twb`  
-- `Tableau/~Sales & Profit Overview__25248.twbr`  
+- `Tableau/Sales & Profit Overview.twb` 
 
 ---
 
