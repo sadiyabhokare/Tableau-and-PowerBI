@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="./Images/Data-Analysis-Banner.png"
+  src="./Images/Data Analysis_ Power BI and Tableau.png"
   alt="Data Analysis | Power BI and Tableau"
   width="100%"
 />
@@ -9,6 +9,7 @@
 </div>
 
 <br>
+
 # 📊 Tableau & Power BI Dashboards Portfolio
 
 🚀 Welcome to my **Tableau & Power BI Dashboards Portfolio**!  
