@@ -1,3 +1,14 @@
+<div align="center">
+
+<img
+  src="./Images/Data-Analysis-Banner.png"
+  alt="Data Analysis | Power BI and Tableau"
+  width="100%"
+/>
+
+</div>
+
+<br>
 # 📊 Tableau & Power BI Dashboards Portfolio
 
 🚀 Welcome to my **Tableau & Power BI Dashboards Portfolio**!  
